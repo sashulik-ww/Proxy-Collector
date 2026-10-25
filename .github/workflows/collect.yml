@@ -1,0 +1,49 @@
+name: collect-whitelist
+
+on:
+  schedule:
+    - cron: "30 */2 * * *"   # каждые 2 часа, со сдвигом от основного checker
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect-whitelist
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Установить Xray
+        run: |
+          mkdir -p xray
+          curl -fsSL -o xray/xray.zip https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip
+          unzip -q -o xray/xray.zip -d xray
+          chmod +x xray/xray
+          ./xray/xray version | head -n 1
+
+      - name: Собрать серверы
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python collector.py --xray ./xray/xray
+
+      - name: Закоммитить результат
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add out/
+          if git diff --cached --quiet; then
+            echo "Без изменений"
+          else
+            git commit -m "update whitelist servers"
+            git push
+          fi

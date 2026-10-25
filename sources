@@ -1,0 +1,16 @@
+# Формат: тип:значение  (строки с # игнорируются)
+
+# repo: — взять все текстовые файлы репозитория
+repo:igareck/vpn-configs-for-russia
+repo:barry-far/V2ray-Config
+
+# url: — прямая ссылка на список или подписку
+#url:https://raw.githubusercontent.com/user/repo/main/file.txt
+
+# tg: — публичный Telegram-канал (без @). Работает, только если у канала
+# открыто веб-превью, т.е. открывается https://t.me/s/имя_канала
+#tg:channel_name
+
+# search: — свои запросы к поиску по коду GitHub. Если не указывать ни одного,
+# скрипт сам ищет по sni=vk.com / vk.ru / yandex.ru / ya.ru / max.ru / ozon.ru / userapi.com
+#search:"security=reality" "sni=vk.com"

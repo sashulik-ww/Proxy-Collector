@@ -1,8 +1,18 @@
 # Формат: тип:значение  (строки с # игнорируются)
 
-# repo: — взять все текстовые файлы репозитория
+# discover: — автопоиск свежих репозиториев на GitHub по ключевым словам.
+# Если не указать ни одной строки, используются запросы по умолчанию (vless reality, v2ray configs,
+# vpn configs russia, белые списки vless и т.д.). Свои запросы добавляй так:
+#discover:vless reality sni
+
+# repo: — взять все текстовые файлы конкретного репозитория (владелец/имя)
 repo:igareck/vpn-configs-for-russia
 repo:barry-far/V2ray-Config
+# Ниже — репозитории из моей памяти, я не проверял, что они живы. Если репозитория нет, скрипт его пропустит.
+repo:AvenCores/goida-vpn-configs
+repo:Epodonios/v2ray-configs
+repo:mahdibland/V2RayAggregator
+repo:soroushmirzaei/telegram-configs-collector
 
 # url: — прямая ссылка на список или подписку
 #url:https://raw.githubusercontent.com/user/repo/main/file.txt

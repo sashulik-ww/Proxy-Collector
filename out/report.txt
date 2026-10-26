@@ -1,26 +1,27 @@
 repos_manual: 0
 repos_discovered: 60
-files_to_download: 1835
-files_downloaded: 1759
-links_from_files: 431358
+files_to_download: 1536
+files_downloaded: 1487
+links_from_files: 355656
 tg_channels: 0
 links_from_tg: 0
-links_found: 431358
-reality_suitable_unique: 21167
-by_transport: {'grpc': 1743, 'tcp': 15514, 'raw': 2883, 'xhttp': 969, 'http': 49, 't.me/entrynet': 1, 'tcp#🎡85@oneclickvpnkeys': 1, 'tcp#🎡85@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?allowinsecure=1#🎡86@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowinsecure=1#🎡87@oneclickvpnkeysvless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?encryption=none': 1, 'tcp#🎗️83@oneclickvpnkeys': 1, 'tcp@nebulavpnx': 1, 'tcpfreenettirunited': 2, 'tcp👉🆔freenettir📡🇬🇧®️united kingdom©️london🅿️ping:34.59ms': 1, 'grpc#3🎗️@oneclickvpnkeys': 1}
-by_sni_tier: {1: 14197, 3: 6338, 2: 632}
-dns_ok: 20267
-tcp_ok: 3251
-xray_ok: 108
-xray_with_speed: 76
-final: 108
-final_entry_in_ru: 57
-final_exit_in_ru: 35
-drop_not_reality: 185591
-drop_vless_encryption: 2074
-drop_sni_not_russian: 143610
-drop_bad_url: 312
-drop_bad_uuid: 8431
-drop_no_sni: 1556
-drop_bad_pbk_sid: 4860
-drop_bad_host: 286
+links_found: 355656
+reality_suitable_unique: 17065
+by_transport: {'tcp': 12309, 'raw': 2393, 'grpc': 1524, 'xhttp': 797, 'http': 35, 't.me/entrynet': 1, 'tcp#🎡85@oneclickvpnkeys': 1, 'tcp#🎡85@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?allowinsecure=1#🎡86@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowinsecure=1#🎡87@oneclickvpnkeysvless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?encryption=none': 1, 'tcp#3🔥@oneclickvpnkeys': 1, 'tcp#3🔥@oneclickvpnkeysvless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none': 1, 'tcp#🪆95@oneclickvpnkeys': 1, 'grpc#3🎗️@oneclickvpnkeys': 1}
+by_sni_tier: {1: 11504, 3: 5104, 2: 457}
+dns_ok: 16333
+tcp_ok: 2886
+xray_ok: 101
+xray_with_speed: 88
+dropped_per_ip_limit: 6
+final: 95
+final_entry_in_ru: 43
+final_exit_in_ru: 28
+drop_not_reality: 145929
+drop_sni_not_russian: 126622
+drop_vless_encryption: 1943
+drop_no_sni: 1538
+drop_bad_url: 240
+drop_bad_uuid: 7442
+drop_bad_pbk_sid: 4731
+drop_bad_host: 238

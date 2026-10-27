@@ -1,27 +1,27 @@
 repos_manual: 0
 repos_discovered: 60
-files_to_download: 1931
-files_downloaded: 1855
-links_from_files: 396334
+files_to_download: 1983
+files_downloaded: 1905
+links_from_files: 453825
 tg_channels: 0
 links_from_tg: 0
-links_found: 396334
-reality_suitable_unique: 16921
-by_transport: {'tcp': 11982, 'grpc': 1578, 'raw': 2555, 'xhttp': 753, 'http': 43, 'tcp#🎡85@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?allowinsecure=1#🎡86@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowinsecure=1#🎡87@oneclickvpnkeysvless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?encryption=none': 1, 'tcp@nebulavpnx': 1, 't.me/entrynet': 1, 'tcp#💡90@oneclickvpnkeys': 1, 'tcp#🎗️83@oneclickvpnkeys': 1, 'tcp#3🔥@oneclickvpnkeys': 1, 'tcp#3🔥@oneclickvpnkeysvless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none': 1, 'tcp#🪆95@oneclickvpnkeys': 1, 'tcp#🎡85@oneclickvpnkeys': 1, 'grpc#3🎗️@oneclickvpnkeys': 1}
-by_sni_tier: {1: 11479, 2: 524, 3: 4918}
-dns_ok: 16287
-tcp_ok: 3034
-xray_ok: 52
-xray_with_speed: 30
-dropped_per_ip_limit: 6
-final: 46
-final_entry_in_ru: 2
-final_exit_in_ru: 1
-drop_sni_not_russian: 115340
-drop_not_reality: 212552
-drop_vless_encryption: 1837
-drop_bad_uuid: 8034
-drop_no_sni: 1080
-drop_bad_url: 382
-drop_bad_pbk_sid: 1266
-drop_bad_host: 257
+links_found: 453825
+reality_suitable_unique: 20198
+by_transport: {'tcp': 14731, 'xhttp': 982, 'raw': 2620, 'grpc': 1807, 't.me/entrynet': 1, 'tcp#🎡85@oneclickvpnkeys': 1, 'tcp#🎡85@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?allowinsecure=1#🎡86@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowinsecure=1#🎡87@oneclickvpnkeysvless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?encryption=none': 1, 'http': 48, 'tcp@nebulavpnx': 1, 'tcp#💡90@oneclickvpnkeys': 1, 'tcp#🎗️83@oneclickvpnkeys': 1, 'tcp#3🔥@oneclickvpnkeys': 1, 'tcp#3🔥@oneclickvpnkeysvless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none': 1, 'tcp#🪆95@oneclickvpnkeys': 1, 'grpc#3🎗️@oneclickvpnkeys': 1}
+by_sni_tier: {3: 6136, 1: 13451, 2: 611}
+dns_ok: 19291
+tcp_ok: 3309
+xray_ok: 57
+xray_with_speed: 34
+dropped_per_ip_limit: 9
+final: 48
+final_entry_in_ru: 1
+final_exit_in_ru: 0
+drop_not_reality: 204750
+drop_sni_not_russian: 150133
+drop_bad_uuid: 8492
+drop_no_sni: 1716
+drop_vless_encryption: 2535
+drop_bad_url: 325
+drop_bad_pbk_sid: 5132
+drop_bad_host: 322

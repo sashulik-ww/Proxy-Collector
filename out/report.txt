@@ -1,26 +1,26 @@
 repos_manual: 0
 repos_discovered: 60
-files_to_download: 1833
-files_downloaded: 1765
-links_from_files: 356485
+files_to_download: 1960
+files_downloaded: 1886
+links_from_files: 397006
 tg_channels: 0
 links_from_tg: 0
-links_found: 356485
-reality_suitable_unique: 16038
-by_transport: {'grpc': 1510, 'tcp': 10965, 'xhttp': 690, 'raw': 2791, 'http': 73, 'tcp#3🔥@oneclickvpnkeys': 1, 'grpc#3🎗️@oneclickvpnkeys': 1, 'tcp#🎡85@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?allowinsecure=1#🎡86@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowinsecure=1#🎡87@oneclickvpnkeysvless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?encryption=none': 1, 'tcp#🎡85@oneclickvpnkeys': 1, 't.me/entrynet': 1, 'tcp#3🔥@oneclickvpnkeysvless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none': 1, 'ws': 1, 'tcp#🪆95@oneclickvpnkeys': 1, 'tcp#🎗️83@oneclickvpnkeys': 1}
-by_sni_tier: {1: 10494, 3: 5039, 2: 505}
-dns_ok: 15441
-tcp_ok: 3321
-xray_ok: 35
-xray_with_speed: 27
-final: 35
-final_entry_in_ru: 0
+links_found: 397006
+reality_suitable_unique: 20215
+by_transport: {'tcp': 13990, 'raw': 3505, 'grpc': 1751, 'xhttp': 889, 't.me/entrynet': 1, 'http': 72, 'tcp#🎡85@oneclickvpnkeys': 1, 'tcp#🎡85@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?allowinsecure=1#🎡86@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowinsecure=1#🎡87@oneclickvpnkeysvless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?encryption=none': 1, 'tcp#3🔥@oneclickvpnkeys': 1, 'tcp#3🔥@oneclickvpnkeysvless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none': 1, 'ws': 1, 'tcp#🪆95@oneclickvpnkeys': 1, 'tcp#🎗️83@oneclickvpnkeys': 1}
+by_sni_tier: {1: 13135, 3: 6472, 2: 608}
+dns_ok: 19333
+tcp_ok: 3478
+xray_ok: 34
+xray_with_speed: 28
+final: 34
+final_entry_in_ru: 6
 final_exit_in_ru: 1
-drop_not_reality: 179089
-drop_sni_not_russian: 112186
-drop_no_sni: 1558
-drop_bad_pbk_sid: 1238
-drop_vless_encryption: 1319
-drop_bad_uuid: 6555
-drop_bad_url: 293
-drop_bad_host: 211
+drop_not_reality: 179831
+drop_sni_not_russian: 126449
+drop_bad_uuid: 6593
+drop_no_sni: 1877
+drop_bad_pbk_sid: 4831
+drop_vless_encryption: 1556
+drop_bad_url: 267
+drop_bad_host: 246

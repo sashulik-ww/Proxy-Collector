@@ -1,26 +1,27 @@
 repos_manual: 0
 repos_discovered: 60
-files_to_download: 1800
-files_downloaded: 1731
-links_from_files: 332270
+files_to_download: 1146
+files_downloaded: 1133
+links_from_files: 195960
 tg_channels: 0
 links_from_tg: 0
-links_found: 332270
-reality_suitable_unique: 16499
-by_transport: {'xhttp': 716, 'tcp': 11266, 'grpc': 1465, 'raw': 2983, 'http': 63, 'tcp#🎡85@oneclickvpnkeys': 1, 'tcp#3🔥@oneclickvpnkeys': 1, 't.me/entrynet': 1, 'tcp#🎡85@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?allowinsecure=1#🎡86@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowinsecure=1#🎡87@oneclickvpnkeysvless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?encryption=none': 1, 'tcp#🪆95@oneclickvpnkeys': 1, 'tcp#3🔥@oneclickvpnkeysvless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none': 1}
-by_sni_tier: {3: 5005, 1: 10904, 2: 590}
-dns_ok: 15886
-tcp_ok: 3137
-xray_ok: 40
-xray_with_speed: 30
-final: 40
-final_entry_in_ru: 3
-final_exit_in_ru: 2
-drop_not_reality: 168895
-drop_sni_not_russian: 103838
-drop_bad_uuid: 5496
-drop_vless_encryption: 1490
-drop_bad_pbk_sid: 1074
-drop_no_sni: 1276
-drop_bad_host: 229
-drop_bad_url: 204
+links_found: 195960
+reality_suitable_unique: 9758
+by_transport: {'xhttp': 536, 'tcp': 7585, 'raw': 786, 'grpc': 819, 'http': 29, 't.me/entrynet': 1, 'tcp#🎡85@oneclickvpnkeys': 1, 'tcp#🎡85@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?allowinsecure=1#🎡86@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowinsecure=1#🎡87@oneclickvpnkeysvless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?encryption=none': 1}
+by_sni_tier: {3: 3250, 1: 6239, 2: 269}
+dns_ok: 9220
+tcp_ok: 2016
+xray_ok: 43
+xray_with_speed: 28
+dropped_per_ip_limit: 2
+final: 41
+final_entry_in_ru: 8
+final_exit_in_ru: 4
+drop_not_reality: 59009
+drop_sni_not_russian: 85345
+drop_bad_uuid: 3987
+drop_vless_encryption: 1749
+drop_no_sni: 1119
+drop_bad_url: 63
+drop_bad_pbk_sid: 4735
+drop_bad_host: 175

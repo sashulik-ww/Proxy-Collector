@@ -1,27 +1,26 @@
 repos_manual: 0
 repos_discovered: 60
-files_to_download: 1528
-files_downloaded: 1483
-links_from_files: 298930
+files_to_download: 1726
+files_downloaded: 1677
+links_from_files: 369341
 tg_channels: 0
 links_from_tg: 0
-links_found: 298930
-reality_suitable_unique: 16642
-by_transport: {'grpc': 1288, 'xhttp': 797, 'tcp': 12243, 'raw': 2260, 'http': 50, 't.me/entrynet': 1, 'tcp#🎡85@oneclickvpnkeys': 1, 'tcp#🎡85@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?allowinsecure=1#🎡86@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowinsecure=1#🎡87@oneclickvpnkeysvless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?encryption=none': 1, 'tcp#3🔥@oneclickvpnkeys': 1}
-by_sni_tier: {1: 10944, 3: 5249, 2: 449}
-dns_ok: 15933
-tcp_ok: 2678
-xray_ok: 33
-xray_with_speed: 18
-dropped_per_ip_limit: 3
-final: 30
-final_entry_in_ru: 3
-final_exit_in_ru: 4
-drop_not_reality: 119424
-drop_sni_not_russian: 107189
-drop_vless_encryption: 1953
-drop_no_sni: 1349
-drop_bad_uuid: 5767
-drop_bad_pbk_sid: 4932
-drop_bad_host: 270
-drop_bad_url: 135
+links_found: 369341
+reality_suitable_unique: 18489
+by_transport: {'tcp': 13074, 'xhttp': 865, 'raw': 2651, 'grpc': 1819, 'http': 73, 'tcp#🎡85@oneclickvpnkeys': 1, 'tcp#3🔥@oneclickvpnkeys': 1, 't.me/entrynet': 1, 'tcp#🎡85@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?allowinsecure=1#🎡86@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowinsecure=1#🎡87@oneclickvpnkeysvless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?encryption=none': 1, 'tcp#💡90@oneclickvpnkeys': 1, 'tcp#🎗️83@oneclickvpnkeys': 1, 'tcp#🎗️96@oneclickvpnkeys': 1}
+by_sni_tier: {3: 6093, 1: 11798, 2: 598}
+dns_ok: 17675
+tcp_ok: 3032
+xray_ok: 24
+xray_with_speed: 12
+final: 24
+final_entry_in_ru: 2
+final_exit_in_ru: 3
+drop_sni_not_russian: 127472
+drop_not_reality: 156246
+drop_bad_uuid: 6762
+drop_vless_encryption: 2255
+drop_bad_host: 278
+drop_bad_pbk_sid: 5113
+drop_no_sni: 1585
+drop_bad_url: 198

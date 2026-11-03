@@ -1,27 +1,27 @@
 repos_manual: 0
 repos_discovered: 60
-files_to_download: 1461
-files_downloaded: 1428
-links_from_files: 236627
+files_to_download: 1863
+files_downloaded: 1803
+links_from_files: 342126
 tg_channels: 0
 links_from_tg: 0
-links_found: 236627
-reality_suitable_unique: 10575
-by_transport: {'tcp': 7207, 'raw': 1695, 'grpc': 1172, 'xhttp': 450, 'http': 44, 'tcp#🎡85@oneclickvpnkeys': 1, 'tcp#3🔥@oneclickvpnkeys': 1, 'tcp@nebulavpnx': 1, 't.me/entrynet': 1, 'tcp#🎗️83@oneclickvpnkeys': 1, 'tcp#🎗️96@oneclickvpnkeys': 1, 'tcp#🪆95@oneclickvpnkeys': 1}
-by_sni_tier: {1: 7008, 3: 3214, 2: 353}
-dns_ok: 10214
-tcp_ok: 2136
-xray_ok: 25
-xray_with_speed: 22
-dropped_per_ip_limit: 2
-final: 23
+links_found: 342126
+reality_suitable_unique: 16262
+by_transport: {'tcp': 10711, 'raw': 3252, 'grpc': 1552, 'xhttp': 675, 'http': 62, 'tcp#3🔥@oneclickvpnkeys': 1, 'tcp#🎡85@oneclickvpnkeys': 1, 'tcp@nebulavpnx': 1, 't.me/entrynet': 1, 'tcp#🎗️83@oneclickvpnkeys': 1, 'tcp#🎗️96@oneclickvpnkeys': 1, 'tcp#🪆95@oneclickvpnkeys': 1, 'tcp#🎡85@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?allowinsecure=1#🎡86@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowinsecure=1#🎡87@oneclickvpnkeysvless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?encryption=none': 1, 'tcp#3🔥@oneclickvpnkeysvless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none': 1, 'tcp#💡90@oneclickvpnkeys': 1}
+by_sni_tier: {1: 10631, 3: 5110, 2: 521}
+dns_ok: 15725
+tcp_ok: 2799
+xray_ok: 42
+xray_with_speed: 31
+dropped_per_ip_limit: 4
+final: 38
 final_entry_in_ru: 1
-final_exit_in_ru: 1
-drop_not_reality: 132740
-drop_sni_not_russian: 68988
-drop_vless_encryption: 1207
-drop_bad_uuid: 3723
-drop_bad_pbk_sid: 685
-drop_no_sni: 933
-drop_bad_host: 186
-drop_bad_url: 112
+final_exit_in_ru: 2
+drop_not_reality: 165354
+drop_sni_not_russian: 113358
+drop_vless_encryption: 1488
+drop_bad_uuid: 5483
+drop_bad_pbk_sid: 1368
+drop_no_sni: 1156
+drop_bad_host: 219
+drop_bad_url: 163

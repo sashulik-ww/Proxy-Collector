@@ -1,1 +1,1 @@
-vless://b5d044c5-1e70-49bb-a650-08b1de516691@13.143.184.226:443?security=reality&encryption=none&pbk=qPh1iuwpELosLWTxOXyfCiMghs_sjSzCOGbkiF0gdkk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=msc1.serverslocal.ru&sid=f7e66e308136e1a1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow
+vless://42713553-c2e5-408a-8a1b-651b2facf01e@91.135.156.243:443?type=tcp&security=reality&sni=sun6-21.userapi.com&fp=firefox&flow=xtls-rprx-vision&pbk=KlybaLW0-grtjEATyTVFIYoWIaoW-Duxi4lcM54_t2U#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow

@@ -1,27 +1,27 @@
 repos_manual: 0
 repos_discovered: 60
-files_to_download: 1747
-files_downloaded: 1689
-links_from_files: 380402
+files_to_download: 1787
+files_downloaded: 1733
+links_from_files: 422474
 tg_channels: 0
 links_from_tg: 0
-links_found: 380402
-reality_suitable_unique: 18600
-by_transport: {'grpc': 1632, 'tcp': 13654, 'raw': 2363, 'xhttp': 894, 'http': 48, 'tcp#3🔥@oneclickvpnkeys': 1, 'tcp#🎡85@oneclickvpnkeys': 1, 't.me/entrynet': 1, 'tcp#🎡85@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?allowinsecure=1#🎡86@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowinsecure=1#🎡87@oneclickvpnkeysvless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?encryption=none': 1, 'tcp#🎗️83@oneclickvpnkeys': 1, 'tcp#🎗️96@oneclickvpnkeys': 1, 'tcp#🪆95@oneclickvpnkeys': 1, 'tcp#3🔥@oneclickvpnkeysvless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none': 1, 'tcp#💡90@oneclickvpnkeys': 1}
-by_sni_tier: {1: 12134, 3: 5919, 2: 547}
-dns_ok: 17824
-tcp_ok: 3118
-xray_ok: 44
-xray_with_speed: 29
-dropped_per_ip_limit: 2
-final: 42
-final_entry_in_ru: 1
-final_exit_in_ru: 1
-drop_sni_not_russian: 135872
-drop_not_reality: 155903
-drop_vless_encryption: 2025
-drop_bad_uuid: 7195
-drop_bad_pbk_sid: 5403
-drop_no_sni: 1507
-drop_bad_host: 288
-drop_bad_url: 193
+links_found: 422474
+reality_suitable_unique: 19883
+by_transport: {'tcp': 14684, 'raw': 2374, 'grpc': 1767, 'xhttp': 983, 'http': 66, 'tcp#3🔥@oneclickvpnkeys': 1, 'tcp#🎡85@oneclickvpnkeys': 1, 't.me/entrynet': 1, 'tcp#🎡85@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?allowinsecure=1#🎡86@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowinsecure=1#🎡87@oneclickvpnkeysvless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?encryption=none': 1, 'tcp#💡90@oneclickvpnkeys': 1, 'tcp#🎗️83@oneclickvpnkeys': 1, 'tcp#🎗️96@oneclickvpnkeys': 1, 'tcp#🪆95@oneclickvpnkeys': 1, 'tcp#3🔥@oneclickvpnkeysvless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none': 1}
+by_sni_tier: {1: 13028, 3: 6224, 2: 631}
+dns_ok: 19003
+tcp_ok: 3227
+xray_ok: 41
+xray_with_speed: 23
+dropped_per_ip_limit: 5
+final: 36
+final_entry_in_ru: 4
+final_exit_in_ru: 2
+drop_sni_not_russian: 145966
+drop_not_reality: 183754
+drop_bad_uuid: 7207
+drop_vless_encryption: 2292
+drop_bad_pbk_sid: 5441
+drop_no_sni: 1621
+drop_bad_host: 335
+drop_bad_url: 196

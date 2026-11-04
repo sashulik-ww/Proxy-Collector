@@ -1,27 +1,26 @@
 repos_manual: 0
 repos_discovered: 60
-files_to_download: 1702
-files_downloaded: 1669
-links_from_files: 334860
+files_to_download: 1669
+files_downloaded: 1610
+links_from_files: 248734
 tg_channels: 0
 links_from_tg: 0
-links_found: 334860
-reality_suitable_unique: 18377
-by_transport: {'grpc': 1650, 'tcp': 13044, 'raw': 2732, 'xhttp': 885, 'http': 57, 't.me/entrynet': 1, 'tcp#🎡85@oneclickvpnkeys': 1, 'tcp#🎡85@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?allowinsecure=1#🎡86@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowinsecure=1#🎡87@oneclickvpnkeysvless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?encryption=none': 1, 'tcp#🎗️96@oneclickvpnkeys': 1, 'tcp#🪆95@oneclickvpnkeys': 1, 'tcp#3🔥@oneclickvpnkeys': 1, 'tcp#3🔥@oneclickvpnkeysvless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none': 1, 'tcp#🎗️83@oneclickvpnkeys': 1, 'tcp#💡90@oneclickvpnkeys': 1}
-by_sni_tier: {3: 5860, 1: 11965, 2: 552}
-dns_ok: 17599
-tcp_ok: 2975
-xray_ok: 33
-xray_with_speed: 29
-dropped_per_ip_limit: 3
-final: 30
-final_entry_in_ru: 2
-final_exit_in_ru: 1
-drop_not_reality: 144266
-drop_sni_not_russian: 111343
-drop_no_sni: 1306
-drop_bad_uuid: 5610
-drop_vless_encryption: 1807
-drop_bad_host: 247
-drop_bad_pbk_sid: 5075
-drop_bad_url: 154
+links_found: 248734
+reality_suitable_unique: 11976
+by_transport: {'tcp': 7917, 'raw': 2169, 'grpc': 1332, 'xhttp': 486, 'http': 64, 'tcp#🎗️96@oneclickvpnkeys': 1, 'tcp#🪆95@oneclickvpnkeys': 1, 'tcp#3🔥@oneclickvpnkeys': 1, 'tcp#3🔥@oneclickvpnkeysvless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none': 1, 'tcp#🎗️83@oneclickvpnkeys': 1, 't.me/entrynet': 1, 'tcp#🎡85@oneclickvpnkeys': 1, 'tcp#🎡85@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?allowinsecure=1#🎡86@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowinsecure=1#🎡87@oneclickvpnkeysvless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?encryption=none': 1}
+by_sni_tier: {1: 7811, 3: 3756, 2: 409}
+dns_ok: 11582
+tcp_ok: 2225
+xray_ok: 32
+xray_with_speed: 26
+final: 32
+final_entry_in_ru: 3
+final_exit_in_ru: 2
+drop_not_reality: 130617
+drop_sni_not_russian: 76433
+drop_vless_encryption: 1172
+drop_bad_uuid: 3688
+drop_bad_pbk_sid: 625
+drop_no_sni: 793
+drop_bad_host: 191
+drop_bad_url: 132

@@ -1,2 +1,0 @@
-vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@84.38.184.87:2092?type=grpc&security=reality&fp=chrome&pbk=G16EKGpV35sUVK9pkuLvnWd2IGX2tcajNnV7w5bI4ig&sid=2423df4e&sni=s3.storage.selcloud.ru&serviceName=cas-it#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Milan
-vless://aa09ada3-ad33-0005-9c1a-6af275272567@46.182.24.15:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V-wRiXvhBx01utmXJbrThJ_DE4tNJfK6mnzo9EB3fVA&security=reality&sni=yabro-wbplugin.edadeal.yandex.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main

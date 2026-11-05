@@ -1,27 +1,27 @@
 repos_manual: 0
 repos_discovered: 60
-files_to_download: 1576
-files_downloaded: 1535
-links_from_files: 377433
+files_to_download: 1732
+files_downloaded: 1670
+links_from_files: 381767
 tg_channels: 0
 links_from_tg: 0
-links_found: 377433
-reality_suitable_unique: 14201
-by_transport: {'tcp': 9892, 'grpc': 1450, 'raw': 2189, 'xhttp': 601, 'http': 62, 'tcp#🎡85@oneclickvpnkeys': 1, 'tcp#3🔥@oneclickvpnkeys': 1, 't.me/entrynet': 1, 'tcp#3🔥@oneclickvpnkeysvless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none': 1, 'tcp#🎗️83@oneclickvpnkeys': 1, 'tcp#🎗️96@oneclickvpnkeys': 1, 'tcp#💡90@oneclickvpnkeys': 1}
-by_sni_tier: {3: 4638, 1: 9089, 2: 474}
-dns_ok: 13698
-tcp_ok: 2608
-xray_ok: 30
-xray_with_speed: 21
-dropped_per_ip_limit: 3
-final: 27
+links_found: 381767
+reality_suitable_unique: 14405
+by_transport: {'tcp': 9815, 'grpc': 1444, 'raw': 2473, 'xhttp': 615, 'http': 49, 'tcp#🎡85@oneclickvpnkeys': 1, 'tcp#3🔥@oneclickvpnkeys': 1, 'tcp#3🔥@oneclickvpnkeysvless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none': 1, 'tcp#🪆95@oneclickvpnkeys': 1, 'tcp#🎗️83@oneclickvpnkeys': 1, 'tcp#🎗️96@oneclickvpnkeys': 1, 't.me/entrynet': 1, 'tcp#🎡85@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?allowinsecure=1#🎡86@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowinsecure=1#🎡87@oneclickvpnkeysvless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?encryption=none': 1, 'tcp#💡90@oneclickvpnkeys': 1}
+by_sni_tier: {3: 4757, 1: 9172, 2: 476}
+dns_ok: 13940
+tcp_ok: 2577
+xray_ok: 39
+xray_with_speed: 25
+dropped_per_ip_limit: 7
+final: 32
 final_entry_in_ru: 2
 final_exit_in_ru: 1
-drop_sni_not_russian: 106833
-drop_not_reality: 213746
-drop_vless_encryption: 1382
-drop_bad_uuid: 6822
-drop_no_sni: 1380
-drop_bad_pbk_sid: 1041
-drop_bad_host: 271
-drop_bad_url: 157
+drop_not_reality: 214683
+drop_sni_not_russian: 106618
+drop_vless_encryption: 1296
+drop_bad_uuid: 6426
+drop_no_sni: 1150
+drop_bad_pbk_sid: 1059
+drop_bad_host: 195
+drop_bad_url: 178

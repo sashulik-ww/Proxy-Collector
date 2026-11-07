@@ -1,27 +1,27 @@
 repos_manual: 0
 repos_discovered: 60
-files_to_download: 1044
-files_downloaded: 1037
-links_from_files: 171083
+files_to_download: 898
+files_downloaded: 886
+links_from_files: 178113
 tg_channels: 0
 links_from_tg: 0
-links_found: 171083
-reality_suitable_unique: 3090
-by_transport: {'tcp': 2443, 'grpc': 281, 'raw': 231, 'xhttp': 133, 'http': 2}
-by_sni_tier: {3: 1182, 1: 1830, 2: 78}
-dns_ok: 3014
-tcp_ok: 987
-xray_ok: 93
-xray_with_speed: 72
+links_found: 178113
+reality_suitable_unique: 3223
+by_transport: {'xhttp': 146, 'tcp': 2532, 'grpc': 291, 'raw': 251, 'http': 3}
+by_sni_tier: {3: 1280, 1: 1865, 2: 78}
+dns_ok: 3145
+tcp_ok: 1084
+xray_ok: 87
+xray_with_speed: 57
 dropped_per_ip_limit: 13
-final: 80
-final_entry_in_ru: 12
-final_exit_in_ru: 6
-drop_not_reality: 98166
-drop_sni_not_russian: 56623
-drop_bad_uuid: 3889
-drop_vless_encryption: 867
-drop_no_sni: 514
-drop_bad_host: 100
-drop_bad_pbk_sid: 472
-drop_bad_url: 55
+final: 74
+final_entry_in_ru: 9
+final_exit_in_ru: 5
+drop_not_reality: 105117
+drop_sni_not_russian: 56435
+drop_bad_uuid: 3357
+drop_no_sni: 508
+drop_bad_pbk_sid: 386
+drop_vless_encryption: 869
+drop_bad_url: 52
+drop_bad_host: 118

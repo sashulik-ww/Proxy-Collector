@@ -1,27 +1,27 @@
 repos_manual: 0
 repos_discovered: 60
-files_to_download: 1586
-files_downloaded: 1560
-links_from_files: 371357
+files_to_download: 1694
+files_downloaded: 1628
+links_from_files: 477446
 tg_channels: 0
 links_from_tg: 0
-links_found: 371357
-reality_suitable_unique: 14543
-by_transport: {'raw': 1827, 'tcp': 10563, 'grpc': 1479, 'xhttp': 641, 'http': 27, 'tcp#3🔥@oneclickvpnkeys': 1, 'tcp#🎡85@oneclickvpnkeys': 1, 't.me/entrynet': 1, 'tcp#🎗️96@oneclickvpnkeys': 1, 'tcp#3🔥@oneclickvpnkeysvless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none': 1, 'tcp#🎗️83@oneclickvpnkeys': 1}
-by_sni_tier: {3: 4812, 1: 9232, 2: 499}
-dns_ok: 13955
-tcp_ok: 2453
-xray_ok: 44
-xray_with_speed: 27
-dropped_per_ip_limit: 5
-final: 39
-final_entry_in_ru: 0
-final_exit_in_ru: 3
-drop_sni_not_russian: 104849
-drop_not_reality: 213907
-drop_no_sni: 1211
-drop_vless_encryption: 1168
-drop_bad_uuid: 6874
-drop_bad_host: 260
-drop_bad_url: 198
-drop_bad_pbk_sid: 946
+links_found: 477446
+reality_suitable_unique: 16337
+by_transport: {'raw': 2688, 'tcp': 11202, 'grpc': 1664, 'xhttp': 740, 'http': 36, 'tcp#🎡85@oneclickvpnkeys': 1, 'tcp#🎡85@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?allowinsecure=1#🎡86@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowinsecure=1#🎡87@oneclickvpnkeysvless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?encryption=none': 1, 'tcp#3🔥@oneclickvpnkeys': 1, 'tcp#3🔥@oneclickvpnkeysvless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none': 1, 't.me/entrynet': 1, 'tcp#🎗️96@oneclickvpnkeys': 1, 'tcp#🎗️83@oneclickvpnkeys': 1}
+by_sni_tier: {3: 5103, 1: 10742, 2: 492}
+dns_ok: 15627
+tcp_ok: 2840
+xray_ok: 52
+xray_with_speed: 31
+dropped_per_ip_limit: 3
+final: 49
+final_entry_in_ru: 4
+final_exit_in_ru: 0
+drop_not_reality: 255475
+drop_sni_not_russian: 137587
+drop_no_sni: 1854
+drop_bad_uuid: 10072
+drop_vless_encryption: 1956
+drop_bad_pbk_sid: 4789
+drop_bad_host: 311
+drop_bad_url: 258

@@ -1,27 +1,27 @@
 repos_manual: 0
 repos_discovered: 60
-files_to_download: 1206
-files_downloaded: 1195
-links_from_files: 207769
+files_to_download: 1063
+files_downloaded: 1053
+links_from_files: 179146
 tg_channels: 0
 links_from_tg: 0
-links_found: 207769
-reality_suitable_unique: 7074
-by_transport: {'tcp': 5198, 'raw': 1034, 'grpc': 540, 'xhttp': 282, 'http': 20}
-by_sni_tier: {3: 2208, 1: 4652, 2: 214}
-dns_ok: 6856
-tcp_ok: 1757
-xray_ok: 55
-xray_with_speed: 31
-dropped_per_ip_limit: 6
-final: 49
-final_entry_in_ru: 9
-final_exit_in_ru: 5
-drop_not_reality: 128975
-drop_sni_not_russian: 51298
-drop_vless_encryption: 888
-drop_no_sni: 542
-drop_bad_uuid: 3846
-drop_bad_url: 89
-drop_bad_host: 126
-drop_bad_pbk_sid: 457
+links_found: 179146
+reality_suitable_unique: 2706
+by_transport: {'tcp': 1993, 'raw': 259, 'grpc': 301, 'xhttp': 144, 'http': 9}
+by_sni_tier: {1: 1584, 3: 1052, 2: 70}
+dns_ok: 2637
+tcp_ok: 1262
+xray_ok: 66
+xray_with_speed: 40
+dropped_per_ip_limit: 11
+final: 55
+final_entry_in_ru: 7
+final_exit_in_ru: 4
+drop_not_reality: 114483
+drop_sni_not_russian: 47741
+drop_vless_encryption: 1052
+drop_bad_uuid: 3387
+drop_no_sni: 539
+drop_bad_host: 123
+drop_bad_pbk_sid: 255
+drop_bad_url: 84

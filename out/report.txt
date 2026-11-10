@@ -1,27 +1,27 @@
 repos_manual: 0
 repos_discovered: 60
-files_to_download: 1494
-files_downloaded: 1453
-links_from_files: 387200
+files_to_download: 1912
+files_downloaded: 1842
+links_from_files: 495440
 tg_channels: 0
 links_from_tg: 0
-links_found: 387200
-reality_suitable_unique: 15697
-by_transport: {'tcp': 11391, 'raw': 1919, 'grpc': 1527, 'xhttp': 809, 'http': 45, 't.me/entrynet': 1, 'tcp#🎡85@oneclickvpnkeys': 1, 'tcp#🎡85@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?allowinsecure=1#🎡86@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowinsecure=1#🎡87@oneclickvpnkeysvless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?encryption=none': 1, 'grpc#3🎗️@oneclickvpnkeys': 1, 'tcp#3🔥@oneclickvpnkeys': 1, 'tcp#🎗️96@oneclickvpnkeys': 1}
-by_sni_tier: {3: 4990, 1: 10194, 2: 513}
-dns_ok: 14940
-tcp_ok: 2675
-xray_ok: 71
-xray_with_speed: 45
-dropped_per_ip_limit: 14
-final: 57
-final_entry_in_ru: 7
+links_found: 495440
+reality_suitable_unique: 19566
+by_transport: {'tcp': 14195, 'grpc': 1733, 'raw': 2654, 'xhttp': 912, 'http': 66, 'tcp#🎡85@oneclickvpnkeys': 1, 'grpc#3🎗️@oneclickvpnkeys': 1, 't.me/entrynet': 1, 'tcp#🎡85@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?allowinsecure=1#🎡86@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowinsecure=1#🎡87@oneclickvpnkeysvless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?encryption=none': 1, 'tcp#3🔥@oneclickvpnkeys': 1, 'tcp#💡90@oneclickvpnkeys': 1}
+by_sni_tier: {3: 6386, 1: 12575, 2: 605}
+dns_ok: 18701
+tcp_ok: 2958
+xray_ok: 54
+xray_with_speed: 37
+dropped_per_ip_limit: 8
+final: 46
+final_entry_in_ru: 6
 final_exit_in_ru: 0
-drop_not_reality: 187239
-drop_sni_not_russian: 124995
-drop_bad_uuid: 7518
-drop_no_sni: 1696
-drop_bad_pbk_sid: 3964
-drop_vless_encryption: 1870
-drop_bad_host: 254
-drop_bad_url: 137
+drop_sni_not_russian: 156040
+drop_not_reality: 243672
+drop_vless_encryption: 2236
+drop_no_sni: 1962
+drop_bad_uuid: 8227
+drop_bad_pbk_sid: 4203
+drop_bad_url: 256
+drop_bad_host: 330

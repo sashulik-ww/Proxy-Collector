@@ -1,27 +1,27 @@
 repos_manual: 0
 repos_discovered: 60
-files_to_download: 1088
-files_downloaded: 1072
-links_from_files: 275283
+files_to_download: 1021
+files_downloaded: 1008
+links_from_files: 281357
 tg_channels: 0
 links_from_tg: 0
-links_found: 275283
-reality_suitable_unique: 8757
-by_transport: {'raw': 632, 'tcp': 6898, 'grpc': 717, 'xhttp': 482, 'http': 23, 'tcp#3🔥@oneclickvpnkeys': 1, 'tcp#🎡85@oneclickvpnkeys': 1, 'grpc#3🎗️@oneclickvpnkeys': 1, 't.me/entrynet': 1, 'tcp#🎡85@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?allowinsecure=1#🎡86@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowinsecure=1#🎡87@oneclickvpnkeysvless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?encryption=none': 1}
-by_sni_tier: {3: 3038, 2: 234, 1: 5485}
-dns_ok: 8288
-tcp_ok: 1693
-xray_ok: 85
-xray_with_speed: 54
-dropped_per_ip_limit: 13
-final: 72
+links_found: 281357
+reality_suitable_unique: 8816
+by_transport: {'raw': 636, 'tcp': 6952, 'grpc': 719, 'xhttp': 481, 't.me/entrynet': 1, 'tcp#🎡85@oneclickvpnkeys': 1, 'tcp#🎡85@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?allowinsecure=1#🎡86@oneclickvpnkeystrojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowinsecure=1#🎡87@oneclickvpnkeysvless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?encryption=none': 1, 'grpc#3🎗️@oneclickvpnkeys': 1, 'http': 23, 'tcp#3🔥@oneclickvpnkeys': 1}
+by_sni_tier: {3: 3075, 1: 5505, 2: 236}
+dns_ok: 8338
+tcp_ok: 1710
+xray_ok: 81
+xray_with_speed: 52
+dropped_per_ip_limit: 8
+final: 73
 final_entry_in_ru: 15
-final_exit_in_ru: 5
-drop_sni_not_russian: 99141
-drop_not_reality: 123238
-drop_no_sni: 1302
-drop_vless_encryption: 1924
-drop_bad_uuid: 5827
-drop_bad_pbk_sid: 3792
-drop_bad_url: 144
-drop_bad_host: 196
+final_exit_in_ru: 3
+drop_not_reality: 127069
+drop_sni_not_russian: 101188
+drop_vless_encryption: 1888
+drop_no_sni: 1287
+drop_bad_uuid: 5645
+drop_bad_pbk_sid: 3777
+drop_bad_url: 136
+drop_bad_host: 193
